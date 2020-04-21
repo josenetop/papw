@@ -18,7 +18,6 @@
 	<properties>
 		<java.version>1.8</java.version>
 		<sonar.projectKey>rqmo_que_vamo</sonar.projectKey>
-		<sonar.organization>josenetop</sonar.organization>
 		<sonar.host.url>http://localhost:9000</sonar.host.url>
 		<sonar.login>c248d7416a026bfd13881b912bbb75ba60b2ca78</sonar.login>
 
